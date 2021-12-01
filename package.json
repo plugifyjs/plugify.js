@@ -1,0 +1,25 @@
+{
+  "name": "plugify.js",
+  "version": "0.0.1",
+  "description": "JavaScript API Wrapper For Plugify",
+  "main": "core/plugify.js",
+  "scripts": {
+    "test": "echo \"Plugify.js\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plugifyjs/plugify.js.git"
+  },
+  "keywords": [
+    "plugify",
+    "library",
+    "wrapper",
+    "plugifyjs"
+  ],
+  "author": "RPS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/plugifyjs/plugify.js/issues"
+  },
+  "homepage": "https://github.com/plugifyjs/plugify.js#readme"
+}
