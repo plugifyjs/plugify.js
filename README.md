@@ -3,6 +3,6 @@ JavaScript API Wrapper For Plugify
 
 # Installing:
 
-```js
+```bash
 npm i plugify.js
 ```
